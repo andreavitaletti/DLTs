@@ -11,6 +11,6 @@ The edited file in this module are ```conf.ini``` and ```roster_testnet.csv```<b
 
 **roaster_testnet.csv** has 4 additional column with our custom definition.
 
-# Path to original files
-**conf.ini**: https://github.com/blockchain-certificates/cert-tools/blob/master/conf.ini
+### Path to original files
+**conf.ini**: https://github.com/blockchain-certificates/cert-tools/blob/master/conf.ini<br/>
 **roaster_testnet.csv**: https://github.com/blockchain-certificates/cert-tools/blob/master/sample_data/rosters/roster_testnet.csv
