@@ -1,6 +1,6 @@
 # CERT-ISSUER
 
-The only edited file in this module is ```conf.ini```.
+The only edited file in this module is ```conf.ini```.<br/>
 This file can be filled changing ```issuing_address```, ```usb_name``` and ```key_file```.
 
 ### Link to original files
